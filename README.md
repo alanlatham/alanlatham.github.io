@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
-
 # Work in progress!!!!
+
+
+## A snail without a house may well be a slug... but an orange without the clockwork is a fine thing indeed!
 
 You can use the [editor on GitHub](https://github.com/alanlatham/alanlatham.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
